@@ -1,0 +1,2 @@
+python TeluguSentimentDetection.py
+pause
